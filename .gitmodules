@@ -1,0 +1,3 @@
+[submodule "APICS-miniapp"]
+	path = APICS-miniapp
+	url = https://github.com/langxuewenya/APICS-miniapp.git
